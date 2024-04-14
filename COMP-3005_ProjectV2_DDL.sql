@@ -1,14 +1,14 @@
-drop table gym_equipment;
-drop table room_booking;
-drop table adminstration_staff;
-drop table group_fitness;
-drop table training_session;
-drop table trainer;
-drop table routine;
-drop table fitness_metrics;
-drop table fitness_goals;
-drop table fitness_acheivements;
-drop table member;
+-- drop table gym_equipment;
+-- drop table room_booking;
+-- drop table adminstration_staff;
+-- drop table group_fitness;
+-- drop table training_session;
+-- drop table trainer;
+-- drop table routine;
+-- drop table fitness_metrics;
+-- drop table fitness_goals;
+-- drop table fitness_acheivements;
+-- drop table member;
 
 
 

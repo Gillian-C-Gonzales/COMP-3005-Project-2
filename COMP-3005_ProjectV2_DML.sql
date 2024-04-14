@@ -1,14 +1,14 @@
-delete from gym_equipment;
-delete from room_booking;
-delete from group_fitness;
-delete from training_session;
-delete from fitness_metrics;
-delete from fitness_acheivements;
-delete from fitness_goals;
-delete from routine;
-delete from trainer;
-delete from member;
-delete from adminstration_staff;
+-- delete from gym_equipment;
+-- delete from room_booking;
+-- delete from group_fitness;
+-- delete from training_session;
+-- delete from fitness_metrics;
+-- delete from fitness_acheivements;
+-- delete from fitness_goals;
+-- delete from routine;
+-- delete from trainer;
+-- delete from member;
+-- delete from adminstration_staff;
 
 
 alter sequence gym_equipment_EID_seq restart with 1; 
